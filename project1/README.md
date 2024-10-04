@@ -12,5 +12,5 @@ def emergency_red_flash():
         time.sleep(0.5)  
     rgb2.fill_color(0x000000)
 ```
-
-
+Image link example:
+![grass](AdobeStock_299908217.jpeg)
