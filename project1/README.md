@@ -1,5 +1,5 @@
 # Project 1 Stress Detect Bun  
-Code snipped for changing states in the program;
+Code snipped for changing states in the program:  
 [Project1 Code link](stresscount.py)
 
 ```Python
