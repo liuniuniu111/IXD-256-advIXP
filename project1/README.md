@@ -1,5 +1,6 @@
 # Project 1 Stress Detect Bun  
 Code snipped for changing states in the program;
+[Project1 Code link](stresscount.py)
 
 ```Python
 def emergency_red_flash():
