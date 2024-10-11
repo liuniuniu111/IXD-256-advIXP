@@ -17,15 +17,24 @@ The process begins by checking for input. If input is detected and the count is 
 [Project1 Code link](stresscount.py)
 
 ```Python
-def emergency_red_flash():
-    for _ in range(5):  
-        for i in range(30):
-            set_led_color(i, 255, 0, 0)  
-        time.sleep(0.5)  
-        rgb2.fill_color(0x000000)  
-        time.sleep(0.5)  
-    rgb2.fill_color(0x000000)
+M5.begin()
+rgb2 = RGB(io=38, n=30, type="SK6812")
+rgb2.set_brightness(30)
+rgb2.fill_color(0x000000)
 ```
+
+- Purpose: This initializes the M5 stack and sets up the RGB LED strip.    
+
+- Inputs:
+    - io=38: Defines the GPIO pin used for controlling the LED strip.
+    - n=30: Specifies the number of LEDs in the strip.
+    - type="SK6812": Indicates the type of RGB LED being used.    
+
+- Outputs:
+    - Sets the brightness of the LEDs to 30.
+    - Fills the strip with the color black (turns off all LEDs).    
+
+- Behavior: This setup prepares the RGB LED strip for use, allowing for color changes based on user input.
 
 ## Physical Components
 - 3d print base
