@@ -6,7 +6,7 @@ Image link example:
 
 ## State Diagram
 The process begins by checking for input. If input is detected and the count is less than 30, one light on the LED strip will illuminate green. When the input count reaches 30, it triggers a stress emergency status, causing the LED strip to display a red blinking animation. Finally, if the count exceeds 30, it will reset the count and start the process over.
-![flowchart](flowchart.JPG)
+![flowchart](flowchart.jpg)
 
 ## Hardware
 - M5 S3 Lite
@@ -30,5 +30,8 @@ def emergency_red_flash():
 ## Physical Components
 - 3d print base
 - Squishy
+![base](base.jpg)
 
 ## Project outcome
+![final](IMG_9919.jpg)
+[Watch the video](./video.mp4)
