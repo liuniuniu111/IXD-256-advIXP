@@ -4,7 +4,8 @@ This is a stress detection installation. As students, we often experience stress
 <img src="annotated-IMG_3492.JPG" alt="idea" width="300"/>
 
 ## State Diagram
-The process begins by checking for input. If input is detected and the count is less than 30, one light on the LED strip will illuminate green. When the input count reaches 30, it triggers a stress emergency status, causing the LED strip to display a red blinking animation. Finally, if the count exceeds 30, it will reset the count and start the process over.
+The process begins by checking for input. If input is detected and the count is less than 30, one light on the LED strip will illuminate green. When the input count reaches 30, it triggers a stress emergency status, causing the LED strip to display a red blinking animation. Finally, if the count exceeds 30, it will reset the count and start the process over.  
+
 Here is a flowchart:
 <img src="flowchart.jpg" alt="flowchart" width="300"/>
 
@@ -34,8 +35,11 @@ Here is the base image:
 <img src="base.jpg" alt="base" width="300"/>
 
 ## Project outcome
-Here is the final image:
-<img src="IMG_9919.jpg" alt="final" width="300"/>
+Here is the final image:  
+<img src="IMG_9919.jpg" alt="final" width="300"/>  
+
+
 <video width="600" controls>
   <source src="video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
 </video>
