@@ -12,10 +12,10 @@ As I thinking about the Morning, which will be the time period that I most likel
 
 
 **1. Bicycle**
-
+<audio src="iphone_alarm.mp3" controls>
 **2. Bird Sound**
-
+<audio src="birdsound.mp3" controls>
 **3. Alarm**
-
+<audio src="iphone_alarm.mp3" controls>
 **4. Sweeping**
-
+<audio src="sweeping.mp3" controls>
