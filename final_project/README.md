@@ -15,31 +15,45 @@ As I thinking about the Morning, which will be the time period that I most likel
 
 
 **1. Bicycle**
-[Play](mov/bicycle.mov)
+
+https://github.com/user-attachments/assets/e68398bf-a4ed-477d-b64c-77a81623e03d
+
 
 
 **2. Bird Sound**
-[Play](mov/birdsong.mov)
+
+https://github.com/user-attachments/assets/ddc4b0df-5207-42d8-9862-eb31254770a0
+
 
 
 **3. Alarm**
-[Play](mov/alarm.mov)
+
+https://github.com/user-attachments/assets/5abd9412-6790-4911-941d-25817dcb7116
 
 
 **4. Sweeping**
-[Play](mov/sweep.mov)
+
+https://github.com/user-attachments/assets/c9755c53-1f31-4c61-b721-c6e4659cc10f
+
+
 
 
 ## 3. Visual
 I overlayed 3 videos on Touch Designer. 
 The default one I was trying to find some animation that is constant and infinite.
-[Play](mov/assets1.mov)
+
+https://github.com/user-attachments/assets/f7cb9640-1ff6-42a5-92a1-afb053322bb4
+
+
 
 Plus the other 2 videos I pulled out from my photobooth, to made a overlay with the default video.
-[Play](mov/assets2.mov)
 
 And here is the result when I finished wraping them.
-[Play](mov/advixp_final111.mov)
+
+
+https://github.com/user-attachments/assets/0d8b0cc9-c3a9-470d-b85b-267d8bc6e5ac
+
+
 
 ## 4. Hardware
 <img src="pic/17.png" width="500"/>
@@ -51,3 +65,9 @@ And here is the result when I finished wraping them.
 <img src="pic/23.png" width="500"/>
 <img src="pic/24.png" width="500"/>
 <img src="pic/25.png" width="500"/>
+
+
+## 5. Final Video
+
+https://github.com/user-attachments/assets/a8b296e6-515f-4426-b4b0-63198d3afd3d
+
