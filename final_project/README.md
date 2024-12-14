@@ -33,7 +33,6 @@ As I thinking about the Morning, which will be the time period that I most likel
 ## 3. Visual
 I overlayed 3 videos on Touch Designer. 
 The default one I was trying to find some animation that is constant and infinite.
-
 [Play](mov/assets1.mov)
 
 Plus the other 2 videos I pulled out from my photobooth, to made a overlay with the default video.
@@ -47,3 +46,8 @@ And here is the result when I finished wraping them.
 <img src="pic/18.png" width="500"/>
 <img src="pic/19.png" width="500"/>
 <img src="pic/20.png" width="500"/>
+<img src="pic/21.png" width="500"/>
+<img src="pic/22.png" width="500"/>
+<img src="pic/23.png" width="500"/>
+<img src="pic/24.png" width="500"/>
+<img src="pic/25.png" width="500"/>
