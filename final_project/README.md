@@ -1,4 +1,7 @@
 # NIUCOZ
+
+Software using **Thonny** & **Touch Designer**
+
 ## 1. Concept
 Using “button (coz)” as a medium to represent a moment in time.
 
@@ -25,3 +28,16 @@ As I thinking about the Morning, which will be the time period that I most likel
 
 **4. Sweeping**
 [Play](sweep.mov)
+
+
+## 3. Visual
+I overlayed 3 videos on Touch Designer. 
+
+The default one I was trying to find some animation that is constant and infinite.
+
+Plus the other 2 videos I pulled out from my photobooth, to made a overlay with the default video.
+
+And here is the result when I finished wraping them.
+
+
+## 4. Hardware
